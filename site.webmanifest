@@ -1,0 +1,21 @@
+{
+  "name": "Mohd Umair Portfolio",
+  "short_name": "Portfolio",
+  "description": "Portfolio of Mohd Umair, Software & Game Developer.",
+  "start_url": "/Portfolio/",
+  "display": "standalone",
+  "background_color": "#111827",
+  "theme_color": "#4f8cff",
+  "icons": [
+    {
+      "src": "images/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "images/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
